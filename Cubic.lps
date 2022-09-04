@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="19">
+      <Unit0>
+        <Filename Value="Cubic.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="79" Y="10"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="cubic1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Cubic1"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="305"/>
+        <CursorPos X="57" Y="321"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="global.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="13"/>
+        <CursorPos X="18" Y="30"/>
+        <UsageCount Value="41"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="buildingslau.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="BuildingSLAU"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="20"/>
+        <CursorPos X="59" Y="37"/>
+        <UsageCount Value="34"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="gauss.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Gauss"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="68"/>
+        <CursorPos X="42" Y="89"/>
+        <UsageCount Value="34"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="drawinterpolatedline.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DrawInterpolatedLine"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="70" Y="24"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\project8\unit8.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="302"/>
+        <CursorPos X="29" Y="302"/>
+        <UsageCount Value="15"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\project8\Gauss.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="72"/>
+        <CursorPos X="111" Y="9"/>
+        <UsageCount Value="11"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\project8\Global.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="10"/>
+        <UsageCount Value="8"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="9598"/>
+        <CursorPos Y="9617"/>
+        <UsageCount Value="11"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\project8\drawinterpolatedline.pas"/>
+        <UnitName Value="DrawInterpolatedLine"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="40" Y="26"/>
+        <UsageCount Value="11"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\project8\buildingslau.pas"/>
+        <UnitName Value="BuildingSLAU"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="7" Y="18"/>
+        <UsageCount Value="11"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\project7\unit7.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="494"/>
+        <CursorPos X="84" Y="166"/>
+        <UsageCount Value="9"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="..\PCUB2new\Global.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="8"/>
+        <UsageCount Value="9"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="..\PCUB2new\unitpcub2.pas"/>
+        <UnitName Value="unitPCUB2"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="181"/>
+        <CursorPos X="31" Y="211"/>
+        <UsageCount Value="14"/>
+        <Loaded Value="True"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\PCUB2new\Draw.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="36" Y="129"/>
+        <UsageCount Value="9"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="draw.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Draw"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="8"/>
+        <CursorPos X="9" Y="41"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="..\PCUB2new\Work.pas"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="340"/>
+        <CursorPos X="7" Y="375"/>
+        <UsageCount Value="14"/>
+        <Loaded Value="True"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="work.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Work"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="116"/>
+        <CursorPos X="85" Y="71"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit18>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="draw.pas"/>
+        <Caret Line="21" Column="7" TopLine="2"/>
+      </Position1>
+      <Position2>
+        <Filename Value="draw.pas"/>
+        <Caret Line="23" Column="7" TopLine="3"/>
+      </Position2>
+      <Position3>
+        <Filename Value="draw.pas"/>
+        <Caret Line="9" Column="58"/>
+      </Position3>
+      <Position4>
+        <Filename Value="draw.pas"/>
+        <Caret Line="17" Column="10" TopLine="3"/>
+      </Position4>
+      <Position5>
+        <Filename Value="work.pas"/>
+        <Caret Line="46" Column="9" TopLine="27"/>
+      </Position5>
+      <Position6>
+        <Filename Value="draw.pas"/>
+        <Caret Line="24" Column="22" TopLine="3"/>
+      </Position6>
+      <Position7>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="223" Column="3" TopLine="403"/>
+      </Position7>
+      <Position8>
+        <Filename Value="work.pas"/>
+        <Caret Line="179" Column="19" TopLine="145"/>
+      </Position8>
+      <Position9>
+        <Filename Value="work.pas"/>
+        <Caret Line="175" Column="26" TopLine="146"/>
+      </Position9>
+      <Position10>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="287" Column="15" TopLine="328"/>
+      </Position10>
+      <Position11>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="353" Column="21" TopLine="340"/>
+      </Position11>
+      <Position12>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="263" Column="25" TopLine="242"/>
+      </Position12>
+      <Position13>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="260" Column="26" TopLine="374"/>
+      </Position13>
+      <Position14>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="289" Column="26" TopLine="277"/>
+      </Position14>
+      <Position15>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="279" Column="55" TopLine="275"/>
+      </Position15>
+      <Position16>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="292" Column="54" TopLine="287"/>
+      </Position16>
+      <Position17>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="306" Column="54" TopLine="301"/>
+      </Position17>
+      <Position18>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="309" Column="29" TopLine="289"/>
+      </Position18>
+      <Position19>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="266" Column="55" TopLine="258"/>
+      </Position19>
+      <Position20>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="309" Column="54" TopLine="294"/>
+      </Position20>
+      <Position21>
+        <Filename Value="drawinterpolatedline.pas"/>
+        <Caret Line="22" Column="44" TopLine="11"/>
+      </Position21>
+      <Position22>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="309" Column="54" TopLine="294"/>
+      </Position22>
+      <Position23>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="165" Column="25" TopLine="158"/>
+      </Position23>
+      <Position24>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="163" Column="23" TopLine="153"/>
+      </Position24>
+      <Position25>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="190" Column="14" TopLine="170"/>
+      </Position25>
+      <Position26>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="163" Column="23" TopLine="152"/>
+      </Position26>
+      <Position27>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="167" Column="41" TopLine="156"/>
+      </Position27>
+      <Position28>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="188" Column="35" TopLine="172"/>
+      </Position28>
+      <Position29>
+        <Filename Value="cubic1.pas"/>
+        <Caret Line="172" Column="27" TopLine="160"/>
+      </Position29>
+      <Position30>
+        <Filename Value="draw.pas"/>
+        <Caret Line="40" Column="32" TopLine="6"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
